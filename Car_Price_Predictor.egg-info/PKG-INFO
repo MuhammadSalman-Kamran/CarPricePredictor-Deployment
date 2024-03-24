@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Car-Price-Predictor
+Version: 0.1
+Author: Salman Kamran
+Author-email: salman.kamran.0079@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: zenml[server]
+Requires-Dist: flask

@@ -1,0 +1,28 @@
+[ 2024-03-25 00:16:17,589 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-25 00:16:17,615 ] 96 werkzeug - INFO -  * Debugger PIN: 157-181-992
+[ 2024-03-25 00:16:18,032 ] 13 root - INFO - Into Prediction Function
+[ 2024-03-25 00:16:18,032 ] 15 root - INFO - Defining the paths of the model and preprocessor object
+[ 2024-03-25 00:16:18,032 ] 19 root - INFO - Loading the model and preprocessor object
+[ 2024-03-25 00:16:18,032 ] 25 root - INFO - Loading the object
+[ 2024-03-25 00:16:18,231 ] 25 root - INFO - Loading the object
+[ 2024-03-25 00:16:18,374 ] 22 root - INFO - Transforming the User input
+[ 2024-03-25 00:16:18,404 ] 24 root - INFO - Making the prediction using processed input
+[ 2024-03-25 00:16:18,429 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 00:16:18] "POST / HTTP/1.1" 200 -
+[ 2024-03-25 00:16:25,578 ] 13 root - INFO - Into Prediction Function
+[ 2024-03-25 00:16:25,578 ] 15 root - INFO - Defining the paths of the model and preprocessor object
+[ 2024-03-25 00:16:25,578 ] 19 root - INFO - Loading the model and preprocessor object
+[ 2024-03-25 00:16:25,578 ] 25 root - INFO - Loading the object
+[ 2024-03-25 00:16:25,578 ] 25 root - INFO - Loading the object
+[ 2024-03-25 00:16:25,578 ] 22 root - INFO - Transforming the User input
+[ 2024-03-25 00:16:25,606 ] 24 root - INFO - Making the prediction using processed input
+[ 2024-03-25 00:16:25,606 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 00:16:25] "POST / HTTP/1.1" 200 -
+[ 2024-03-25 00:16:29,994 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 00:16:29] "GET / HTTP/1.1" 200 -
+[ 2024-03-25 00:16:37,400 ] 13 root - INFO - Into Prediction Function
+[ 2024-03-25 00:16:37,400 ] 15 root - INFO - Defining the paths of the model and preprocessor object
+[ 2024-03-25 00:16:37,400 ] 19 root - INFO - Loading the model and preprocessor object
+[ 2024-03-25 00:16:37,400 ] 25 root - INFO - Loading the object
+[ 2024-03-25 00:16:37,400 ] 25 root - INFO - Loading the object
+[ 2024-03-25 00:16:37,400 ] 22 root - INFO - Transforming the User input
+[ 2024-03-25 00:16:37,425 ] 24 root - INFO - Making the prediction using processed input
+[ 2024-03-25 00:16:37,425 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 00:16:37] "POST / HTTP/1.1" 200 -
+[ 2024-03-25 00:17:02,001 ] 96 werkzeug - INFO -  * Detected change in 'E:\\Modular Project\\Car Price Predictor\\app.py', reloading

@@ -1,0 +1,15 @@
+[ 2024-03-25 00:12:42,680 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-25 00:12:42,698 ] 96 werkzeug - INFO -  * Debugger PIN: 157-181-992
+[ 2024-03-25 00:13:01,553 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 00:13:01] "GET / HTTP/1.1" 200 -
+[ 2024-03-25 00:13:04,869 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 00:13:04] "GET / HTTP/1.1" 200 -
+[ 2024-03-25 00:13:10,008 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 00:13:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-03-25 00:15:33,443 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 00:15:33] "GET / HTTP/1.1" 200 -
+[ 2024-03-25 00:15:49,300 ] 13 root - INFO - Into Prediction Function
+[ 2024-03-25 00:15:49,300 ] 15 root - INFO - Defining the paths of the model and preprocessor object
+[ 2024-03-25 00:15:49,309 ] 19 root - INFO - Loading the model and preprocessor object
+[ 2024-03-25 00:15:49,309 ] 25 root - INFO - Loading the object
+[ 2024-03-25 00:15:49,671 ] 25 root - INFO - Loading the object
+[ 2024-03-25 00:15:49,894 ] 22 root - INFO - Transforming the User input
+[ 2024-03-25 00:15:49,946 ] 24 root - INFO - Making the prediction using processed input
+[ 2024-03-25 00:15:49,954 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 00:15:49] "POST / HTTP/1.1" 200 -
+[ 2024-03-25 00:16:11,457 ] 96 werkzeug - INFO -  * Detected change in 'E:\\Modular Project\\Car Price Predictor\\app.py', reloading

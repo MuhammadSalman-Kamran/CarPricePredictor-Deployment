@@ -1,0 +1,165 @@
+name,company,year,kms_driven,fuel_type,Price
+Maruti Suzuki Wagon,Maruti,2009,45000,Petrol,135000
+Maruti Suzuki Wagon,Maruti,2007,7000,Petrol,120000
+Honda Amaze,Honda,2013,46000,Diesel,284999
+Toyota Etios Liva,Toyota,2012,20000,Diesel,380000
+Hyundai i10,Hyundai,2009,27000,Petrol,215000
+Maruti Suzuki Dzire,Maruti,2016,150000,Diesel,325000
+Maruti Suzuki Wagon,Maruti,2010,54870,Petrol,145000
+Mahindra Scorpio S4,Mahindra,2015,63000,Diesel,795000
+Maruti Suzuki Versa,Maruti,2004,50000,Petrol,90000
+Maruti Suzuki Dzire,Maruti,2013,30000,Petrol,380000
+Maruti Suzuki Stingray,Maruti,2015,30000,Petrol,315000
+Maruti Suzuki Ertiga,Maruti,2013,48000,Diesel,475000
+Mahindra Scorpio S4,Mahindra,2015,30000,Diesel,855000
+Tata Indica V2,Tata,2009,30000,Diesel,110000
+Tata Zest XE,Tata,2017,70000,Diesel,380000
+Tata Nano GenX,Tata,2010,44005,Petrol,32000
+Maruti Suzuki Alto,Maruti,2014,22000,Petrol,270000
+Ford Figo Diesel,Ford,2014,50000,Diesel,195000
+Honda City 1.5,Honda,2009,55000,Petrol,269000
+Mahindra XUV500 W6,Mahindra,2014,45000,Diesel,8500003
+Volkswagen Polo Comfortline,Volkswagen,2015,2800,Petrol,399999
+Chevrolet Spark LS,Chevrolet,2010,41000,Petrol,110000
+Nissan Micra XL,Nissan,2017,62500,Diesel,430000
+Mahindra Jeep MM,Mahindra,2006,122,Diesel,425000
+Honda City 1.5,Honda,2011,33000,Petrol,280000
+Maruti Suzuki Swift,Maruti,2017,15487,Petrol,180000
+Mahindra Quanto C8,Mahindra,2013,20000,Diesel,375000
+Force Motors Force,Force,2015,3200,Diesel,580000
+Maruti Suzuki SX4,Maruti,2012,46000,Diesel,265000
+Mahindra Scorpio VLX,Mahindra,2014,50000,Diesel,699000
+Chevrolet Enjoy 1.4,Chevrolet,2013,55000,Diesel,245000
+Mahindra XUV500 W8,Mahindra,2015,28600,Diesel,900000
+Toyota Innova 2.5,Toyota,2012,75000,Diesel,750000
+Maruti Suzuki Ertiga,Maruti,2014,45000,Petrol,569999
+Maruti Suzuki Ertiga,Maruti,2012,48000,Diesel,500000
+Hyundai i20 Sportz,Hyundai,2012,55000,Petrol,100000
+Mahindra TUV300 T4,Mahindra,2017,68000,Diesel,610000
+Maruti Suzuki Alto,Maruti,2003,60000,Petrol,42000
+Mahindra Scorpio SLE,Mahindra,2012,19000,Diesel,570000
+Hyundai Santro Xing,Hyundai,2014,57000,Petrol,179000
+Skoda Fabia Classic,Skoda,2010,60000,Petrol,182000
+Hyundai Verna 1.6,Hyundai,2019,2000,Petrol,900000
+Maruti Suzuki Ertiga,Maruti,2012,51000,Diesel,480000
+Toyota Innova 2.5,Toyota,2012,99000,Diesel,849999
+Force Motors Force,Force,2015,3200,Diesel,580000
+Maruti Suzuki Alto,Maruti,2015,5000,Petrol,219000
+Maruti Suzuki Swift,Maruti,2011,65000,Diesel,140000
+Chevrolet Beat Diesel,Chevrolet,2016,19336,Diesel,179999
+Tata Sumo Gold,Tata,2012,75000,Diesel,210000
+Mahindra Scorpio LX,Mahindra,2009,95500,Diesel,320000
+Mahindra KUV100 K8,Mahindra,2018,8000,Diesel,560000
+Honda Amaze 1.2,Honda,2014,6000,Petrol,381000
+Toyota Innova 2.0,Toyota,2012,80000,Diesel,600000
+Maruti Suzuki SX4,Maruti,2016,85960,Diesel,970000
+Honda City,Honda,2014,39000,Petrol,584999
+Mahindra Xylo E8,Mahindra,2009,64000,Diesel,295000
+Hyundai Elite i20,Hyundai,2015,20000,Diesel,450000
+Toyota Corolla Altis,Toyota,2009,35000,Petrol,240000
+Audi A4 2.0,Audi,2013,27000,Diesel,1510000
+Hyundai Verna VGT,Hyundai,2010,47900,Diesel,205000
+Maruti Suzuki Swift,Maruti,2012,48006,Diesel,280000
+Toyota Etios Liva,Toyota,2012,85000,Diesel,350000
+Chevrolet Spark,Chevrolet,2012,33600,Petrol,158400
+Maruti Suzuki Versa,Maruti,2004,50000,Petrol,90000
+Mahindra Bolero SLE,Mahindra,2013,80200,Diesel,330000
+Hyundai Eon Era,Hyundai,2013,27000,Petrol,185000
+Ford Figo Duratorq,Ford,2012,99000,Diesel,250000
+Maruti Suzuki Swift,Maruti,2014,35522,Diesel,385000
+BMW 7 Series,BMW,2009,35000,Petrol,1600000
+Fiat Punto Emotion,Fiat,2012,37200,Diesel,169500
+Ford Endeavor 4x4,Ford,2019,9000,Diesel,2900000
+Hyundai Creta 1.6,Hyundai,2016,8000,Petrol,1000000
+Tata Sumo Victa,Tata,2012,65000,Diesel,285000
+Maruti Suzuki Ritz,Maruti,2011,50000,Petrol,270000
+Toyota Innova 2.0,Toyota,2012,82000,Diesel,650000
+Maruti Suzuki Wagon,Maruti,2013,39000,Petrol,105000
+Maruti Suzuki Swift,Maruti,2012,48006,Diesel,280000
+Chevrolet Beat LS,Chevrolet,2015,32700,Petrol,220000
+Hyundai i20 Active,Hyundai,2015,18000,Petrol,500000
+Hyundai Grand i10,Hyundai,2016,27000,Petrol,380000
+Mahindra Jeep CL550,Mahindra,2019,0,Diesel,379000
+Tata Nano,Tata,2013,6800,Petrol,60000
+Maruti Suzuki Wagon,Maruti,2017,23000,Petrol,375000
+Skoda Fabia 1.2L,Skoda,2011,38200,Diesel,159500
+Mahindra Scorpio S4,Mahindra,2015,30000,Diesel,865000
+Maruti Suzuki Omni,Maruti,2017,8000,Petrol,240000
+Maruti Suzuki Swift,Maruti,2009,45000,Petrol,150000
+Maruti Suzuki SX4,Maruti,2012,46000,Diesel,265000
+Hyundai Fluidic Verna,Hyundai,2013,117000,Diesel,350000
+Maruti Suzuki Wagon,Maruti,2015,22000,Petrol,289999
+Mahindra TUV300 T4,Mahindra,2016,9000,Diesel,675000
+Skoda Rapid Elegance,Skoda,2013,48000,Diesel,340000
+Volkswagen Jetta Comfortline,Volkswagen,2009,54500,Diesel,450000
+Hyundai Santro Xing,Hyundai,2004,137495,Petrol,45000
+Maruti Suzuki Swift,Maruti,2016,166000,Diesel,350000
+Maruti Suzuki Ritz,Maruti,2010,40000,Petrol,149000
+Maruti Suzuki Wagon,Maruti,2016,15000,Petrol,344999
+Toyota Corolla,Toyota,2006,40000,Petrol,160000
+Maruti Suzuki Swift,Maruti,2010,67000,Diesel,270000
+Volvo S80 Summum,Volvo,2015,42000,Diesel,1850000
+Hyundai Eon,Hyundai,2013,25000,Petrol,190000
+Mahindra Scorpio S10,Mahindra,2015,35000,Diesel,395000
+Hyundai i20 Magna,Hyundai,2011,47000,Petrol,230000
+Maruti Suzuki Swift,Maruti,2016,51000,Diesel,499000
+Maruti Suzuki Swift,Maruti,2014,11523,Petrol,370000
+Audi A3 Cabriolet,Audi,2015,12516,Petrol,3100000
+Mahindra XUV500 W8,Mahindra,2013,38000,Diesel,701000
+Mahindra TUV300 T4,Mahindra,2016,35000,Diesel,540000
+Mini Cooper S,Mini,2013,13500,Petrol,1891111
+Honda City,Honda,2017,3000,Petrol,750000
+Mahindra Scorpio S4,Mahindra,2015,30000,Diesel,855000
+Volkswagen Polo Highline1.2L,Volkswagen,2017,45000,Petrol,525000
+Toyota Etios,Toyota,2011,36000,Diesel,275000
+Tata Sumo Gold,Tata,2014,116000,Diesel,275000
+Hyundai Elite i20,Hyundai,2015,28000,Petrol,405000
+Maruti Suzuki Wagon,Maruti,2016,20000,Petrol,395000
+Toyota Corolla Altis,Toyota,2010,38000,Diesel,351000
+Hyundai Elite i20,Hyundai,2014,32000,Petrol,415000
+Tata Sumo Grande,Tata,2010,90000,Diesel,130000
+Maruti Suzuki Eeco,Maruti,2015,55000,Petrol,251111
+Tata Indigo CS,Tata,2009,46000,Diesel,72500
+Volkswagen Polo Highline1.2L,Volkswagen,2013,27000,Petrol,380000
+Maruti Suzuki Ertiga,Maruti,2016,55000,Diesel,730000
+Honda Amaze,Honda,2013,55700,Diesel,250000
+Mahindra Xylo E4,Mahindra,2012,35000,Diesel,400000
+Chevrolet Beat LT,Chevrolet,2015,90000,Diesel,215000
+Toyota Etios Liva,Toyota,2014,55000,Petrol,270000
+Mini Cooper S,Mini,2013,13000,Petrol,1891111
+Hyundai Elite i20,Hyundai,2018,2100,Petrol,510000
+Mahindra Scorpio S10,Mahindra,2015,48508,Diesel,250000
+Hyundai Grand i10,Hyundai,2014,20000,Petrol,365000
+Hyundai Eon D,Hyundai,2018,25000,Petrol,260000
+Maruti Suzuki Wagon,Maruti,2003,45000,Petrol,90000
+Volkswagen Polo,Volkswagen,2013,48000,Diesel,299999
+Honda Brio,Honda,2012,30000,Petrol,224999
+Mercedes Benz B,Mercedes,2014,31000,Petrol,1400000
+Tata Sumo Gold,Tata,2014,99000,Diesel,250000
+Maruti Suzuki Wagon,Maruti,2009,27000,Petrol,159000
+Maruti Suzuki Alto,Maruti,2019,1500,Petrol,400000
+Maruti Suzuki Baleno,Maruti,2018,1000,Petrol,690000
+BMW X1,BMW,2011,34000,Diesel,1000000
+Honda City 1.5,Honda,2005,41000,Petrol,95000
+Maruti Suzuki Wagon,Maruti,2006,71200,Petrol,80000
+Hyundai Elite i20,Hyundai,2017,15000,Petrol,550000
+Mahindra Jeep CL550,Mahindra,2019,0,Diesel,379000
+BMW X1 xDrive20d,BMW,2011,72000,Diesel,1150000
+Maruti Suzuki Alto,Maruti,2015,60000,Petrol,250000
+Tata Tiago Revotorq,Tata,2019,0,Petrol,568500
+Maruti Suzuki Ertiga,Maruti,2016,29000,Petrol,635000
+Hyundai Grand i10,Hyundai,2014,20000,Petrol,365000
+Mahindra XUV500,Mahindra,2014,47000,Diesel,649999
+Honda City 1.5,Honda,2005,68000,Petrol,120000
+Maruti Suzuki SX4,Maruti,2010,36000,Petrol,249999
+Hyundai Grand i10,Hyundai,2014,28000,Petrol,325000
+Hyundai Eon Era,Hyundai,2014,28400,Petrol,200000
+Hyundai Verna 1.6,Hyundai,2017,12000,Petrol,800000
+Chevrolet Sail UVA,Chevrolet,2013,60000,Petrol,210000
+Tata Indigo eCS,Tata,2016,175430,Diesel,320000
+Renault Duster 110PS,Renault,2012,35000,Diesel,501000
+Mitsubishi Pajero Sport,Mitsubishi,2015,43222,Petrol,1540000
+Hyundai i20 Asta,Hyundai,2014,31000,Petrol,425000
+Hyundai Santro,Hyundai,2000,88000,Petrol,51999
+Maruti Suzuki Omni,Maruti,2009,56000,Petrol,85000
+Ford Figo Petrol,Ford,2019,0,Petrol,525000

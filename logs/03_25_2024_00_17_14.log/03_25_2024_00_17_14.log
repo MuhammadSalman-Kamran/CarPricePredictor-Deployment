@@ -1,0 +1,11 @@
+[ 2024-03-25 00:17:18,122 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-25 00:17:18,131 ] 96 werkzeug - INFO -  * Debugger PIN: 157-181-992
+[ 2024-03-25 00:17:19,300 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 00:17:19] "GET / HTTP/1.1" 200 -
+[ 2024-03-25 00:17:24,374 ] 13 root - INFO - Into Prediction Function
+[ 2024-03-25 00:17:24,374 ] 15 root - INFO - Defining the paths of the model and preprocessor object
+[ 2024-03-25 00:17:24,374 ] 19 root - INFO - Loading the model and preprocessor object
+[ 2024-03-25 00:17:24,374 ] 25 root - INFO - Loading the object
+[ 2024-03-25 00:17:24,544 ] 25 root - INFO - Loading the object
+[ 2024-03-25 00:17:24,679 ] 22 root - INFO - Transforming the User input
+[ 2024-03-25 00:17:24,695 ] 24 root - INFO - Making the prediction using processed input
+[ 2024-03-25 00:17:24,695 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Mar/2024 00:17:24] "POST / HTTP/1.1" 200 -

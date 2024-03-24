@@ -1,0 +1,20 @@
+[ 2024-03-24 19:48:46,247 ] 21 root - INFO - Ingestion of the data has started
+[ 2024-03-24 19:48:46,249 ] 23 root - INFO - Reading the csv data from file path
+[ 2024-03-24 19:48:46,259 ] 26 root - INFO - Making the directory for storing csv files
+[ 2024-03-24 19:48:46,262 ] 28 root - INFO - Storing the Sample Data
+[ 2024-03-24 19:48:46,297 ] 33 root - INFO - Saving Training CSV file
+[ 2024-03-24 19:48:46,310 ] 36 root - INFO - Saving Testing CSV file
+[ 2024-03-24 19:48:46,315 ] 53 root - INFO - Transformation process has started
+[ 2024-03-24 19:48:46,317 ] 55 root - INFO - Reading Training and testing file in their DataFrames
+[ 2024-03-24 19:48:46,386 ] 59 root - INFO - Making the Preprocessor obj
+[ 2024-03-24 19:48:46,391 ] 24 root - INFO - Process of making Scikit-Learn Pipeline
+[ 2024-03-24 19:48:46,391 ] 29 root - INFO - Making Pipeline for numerical Columns
+[ 2024-03-24 19:48:46,392 ] 35 root - INFO - Making pipeline for categorical columns
+[ 2024-03-24 19:48:46,392 ] 41 root - INFO - Combining both pipelines using ColumnTransformer
+[ 2024-03-24 19:48:46,393 ] 62 root - INFO - Dividing the Independant and Dependant Columns
+[ 2024-03-24 19:48:46,396 ] 68 root - INFO - Processing the input of training and testing file
+[ 2024-03-24 19:48:46,457 ] 16 root - INFO - Making Directory for storing the object
+[ 2024-03-24 19:48:46,459 ] 18 root - INFO - Saving the object 
+[ 2024-03-24 19:48:46,461 ] 22 root - INFO - Training Process has started
+[ 2024-03-24 19:48:46,475 ] 25 root - INFO - Model Training is going to start
+[ 2024-03-24 19:48:46,510 ] 28 root - INFO - Checking the error rate of the model

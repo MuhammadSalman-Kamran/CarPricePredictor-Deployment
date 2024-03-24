@@ -1,0 +1,28 @@
+[ 2024-03-24 19:55:41,175 ] 21 root - INFO - Ingestion of the data has started
+[ 2024-03-24 19:55:41,177 ] 23 root - INFO - Reading the csv data from file path
+[ 2024-03-24 19:55:41,187 ] 26 root - INFO - Making the directory for storing csv files
+[ 2024-03-24 19:55:41,188 ] 28 root - INFO - Storing the Sample Data
+[ 2024-03-24 19:55:41,216 ] 33 root - INFO - Saving Training CSV file
+[ 2024-03-24 19:55:41,227 ] 36 root - INFO - Saving Testing CSV file
+[ 2024-03-24 19:55:41,232 ] 53 root - INFO - Transformation process has started
+[ 2024-03-24 19:55:41,233 ] 55 root - INFO - Reading Training and testing file in their DataFrames
+[ 2024-03-24 19:55:41,320 ] 59 root - INFO - Making the Preprocessor obj
+[ 2024-03-24 19:55:41,321 ] 24 root - INFO - Process of making Scikit-Learn Pipeline
+[ 2024-03-24 19:55:41,322 ] 29 root - INFO - Making Pipeline for numerical Columns
+[ 2024-03-24 19:55:41,322 ] 35 root - INFO - Making pipeline for categorical columns
+[ 2024-03-24 19:55:41,323 ] 41 root - INFO - Combining both pipelines using ColumnTransformer
+[ 2024-03-24 19:55:41,323 ] 62 root - INFO - Dividing the Independant and Dependant Columns
+[ 2024-03-24 19:55:41,325 ] 68 root - INFO - Processing the input of training and testing file
+[ 2024-03-24 19:55:41,390 ] 16 root - INFO - Making Directory for storing the object
+[ 2024-03-24 19:55:41,393 ] 18 root - INFO - Saving the object 
+[ 2024-03-24 19:55:41,395 ] 23 root - INFO - Training Process has started
+[ 2024-03-24 19:55:41,396 ] 25 root - INFO - Training and Testing file imported successfully
+[ 2024-03-24 19:55:41,419 ] 29 root - INFO - Converting output into numpy array
+[ 2024-03-24 19:55:41,424 ] 35 root - INFO - Calling the model
+[ 2024-03-24 19:55:41,428 ] 37 root - INFO - Calling the evalution model
+[ 2024-03-24 19:55:41,430 ] 25 root - INFO - Model Training is going to start
+[ 2024-03-24 19:55:41,466 ] 28 root - INFO - Checking the error rate of the model
+[ 2024-03-24 19:55:41,472 ] 42 root - INFO - Dumping the model obj
+[ 2024-03-24 19:55:41,473 ] 16 root - INFO - Making Directory for storing the object
+[ 2024-03-24 19:55:41,478 ] 18 root - INFO - Saving the object 
+[ 2024-03-24 19:55:41,483 ] 45 root - INFO - Returning the model object folder path
